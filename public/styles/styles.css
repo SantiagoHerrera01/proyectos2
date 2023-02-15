@@ -1,0 +1,10 @@
+.banner{
+    background-image: url("../img/Banner.jpg");
+    padding: 20%;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    
+}
